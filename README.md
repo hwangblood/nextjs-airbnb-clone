@@ -2,6 +2,8 @@
 
 Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023
 
+https://www.youtube.com/watch?v=c_-b_isI4vg
+
 ## Getting Started
 
 First, run the development server:
